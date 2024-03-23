@@ -1,11 +1,11 @@
 {
   "setup": {
-    "city": "bien hoa",
+    "city": "Phu Yen",
     "delay": 4.7
   },
   "config": {
     "options": {
-      "watch-url": ["https://www.youtube.com/watch?v=G7qhXHPeeGA"],
+      "watch-url": ["https://youtu.be/JXn03fcoLT8?si=Dce3k_PNBDVp0zlM"],
       "timestamp": "{start}"
     },
     "text-1": [
@@ -57,32 +57,32 @@
     ],
     "button-1": [
         {
-        "name": "` случайность $ ;",
-        "url": "https://facebook.com//solly1402"
+        "name": "` Facebook $ ;",
+        "url": "https://www.facebook.com//hine.Wns/"
       },
       {
-        "name": "- Диаметр o/һ ;",
-        "url": "https://www.instagram.com/soll_y14"
+        "name": "- Instagram ;",
+        "url": "https://www.instagram.com/"
       },
       {
-        "name": "` скучный # ;",
-        "url": "https://discord.com/invite/CDr8XXYAD5"
+        "name": "` Discord # ;",
+        "url": "https://discord.com/invite/9uhGqeMG" 
       },
       {
-        "name": "- JasenSexhod $ ;",
+        "name": "- Zenus $ ;",
         "url": "https://soundcloud.com/solly1402"
       },
       {
         "name": "@1 - tag purs",
-        "url": "https://www.xmanagerapp.com"
+        "url": ""
       },
       {
         "name": "- hard ; # hr",
-        "url": "https://www.savethechildren.org/us/where-we-work/africa"
+        "url": ""
       },
       {
         "name": "/$/",
-        "url": "https://www.pinterest.com/solly1402"
+        "url": ""
       }
     ],
     "button-2": []
